@@ -1,3 +1,8 @@
+---
+title: Resume
+layout: default
+---
+
 ### Background
 
 I am an Australian software developer on a working holiday visa
