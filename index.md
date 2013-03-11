@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Adam Rudd
+title: Main
 ---
 
-# Introduction
+## Main
 
-This is a test!
+Hello! You've reached my personal junk and eventual blog page.
+
+Interesting stuff you can find to the left.
