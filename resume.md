@@ -5,8 +5,8 @@ layout: default
 
 ### Background
 
-I am an Australian software developer on a working holiday visa
-in Germany, with a taste for web development, embedded systems
+I am an Australian software developer living and working in
+Berlin with a taste for web development, embedded systems
 and education.
 
 ### Education
@@ -23,6 +23,16 @@ Brisbane, Australia
 * Linux server administration (Ubuntu, CentOS)
 
 ### Professional Experience
+
+#### [URGE IO](http://versus.com), Berlin, Germany
+
+##### Node.js Developer - April 2013 -
+
+URGE IO is a Berlin based startup who are responsible for Versus.com,
+a website for comparing anything, with a particular focus on consumer
+electronics. I participated in rewriting the existing ruby on rails
+implementation of versus.com as a node.js application. I am also
+the lead developer of the versus.com content management system.
 
 #### [Townsqr](http://townsqr.com.au), Brisbane, Australia
 
