@@ -6,8 +6,7 @@ layout: default
 ### Background
 
 I am an Australian software developer living and working in
-Berlin with a taste for web development, embedded systems
-and education.
+Berlin with a taste for web development and embedded systems.
 
 ### Education
 
@@ -116,9 +115,3 @@ QUEST is a society at the University of Queensland dedicated to helping exchange
 * English (native)
 * German (intermediate)
 * Spanish (beginner)
-
-### Interests
-
-* Open source programming
-* Travel and exploration
-* Kung Fu
