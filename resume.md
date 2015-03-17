@@ -25,13 +25,21 @@ Brisbane, Australia
 
 #### [URGE IO](http://versus.com), Berlin, Germany
 
-##### Node.js Developer - April 2013 -
-
 URGE IO is a Berlin based startup who are responsible for Versus.com,
 a website for comparing anything, with a particular focus on consumer
-electronics. I participated in rewriting the existing ruby on rails
-implementation of versus.com as a node.js application. I am also
-the lead developer of the versus.com content management system.
+electronics.
+
+#### Head of Engineering - October 2014 -
+
+* Led a team of six software engineers of varying skill levels and backgrounds,
+* Manged the process of hiring new engineers,
+* Liased with non-technical stakeholders in the company
+
+##### Node.js Developer - April 2013 -
+
+* Rewrote the existing ruby on rails application server in node.js, increasing response times and reliability,
+* Architected a bespoke content management system for versus, greatly improving the productivity of content managers
+* Launched an affiliate marketing program which doubled revenue for the company
 
 #### [Townsqr](http://townsqr.com.au), Brisbane, Australia
 
