@@ -29,7 +29,7 @@ URGE IO is a Berlin based startup who are responsible for Versus.com,
 a website for comparing anything, with a particular focus on consumer
 electronics.
 
-#### Head of Engineering - October 2014 -
+##### Head of Engineering - October 2014 -
 
 * Led a team of six software engineers of varying skill levels and backgrounds,
 * Manged the process of hiring new engineers,
