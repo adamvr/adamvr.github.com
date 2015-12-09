@@ -39,7 +39,7 @@ electronics.
 * Manged the process of hiring new engineers,
 * Liased with non-technical stakeholders in the company
 
-##### Node.js Developer - April 2013 -
+##### Node.js Developer - April 2013 - October 2014
 
 * Rewrote the existing ruby on rails application server in node.js, increasing response times and reliability,
 * Architected a bespoke content management system for versus, greatly improving the productivity of content managers
