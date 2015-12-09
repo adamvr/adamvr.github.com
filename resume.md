@@ -6,22 +6,26 @@ layout: default
 ### Background
 
 I am an Australian software developer living and working in
-Berlin with a taste for web development and embedded systems.
+Germany with, specialising in web development, embedded systems and the internet of things.
 
-### Education
+### Open Source Contributions
 
-Bachelor of Engineering (Software Engineering)  
-University of Queensland, St. Lucia  
-Brisbane, Australia  
-
-### Proficiencies
-
-* Web development: Ruby on Rails, Node.js, CSS/HTML5/Javascript
-* Databases: Oracle SQL, MySQL, Postgres, MongoDB, Redis
-* Languages: C, C++, Java, Ruby, Javascript, PHP
-* Linux server administration (Ubuntu, CentOS)
+* [MQTT.js](http://github.com/adamvr/MQTT.js) - creator and maintainer
+* [Mosquitto - the open source MQTT Broker](http://mosquitto.org) - OSX compatibility (through cmake) and submission to OSX Hombrew
+* [arduino-base64](http://github.com/adamvr/arduino-base64) - creator and maintainer
 
 ### Professional Experience
+
+#### [Homelike Internet GmbH](https://www.thehomelike.com), Cologne, Germany
+
+Homelike is a Cologne based startup who specialise in furnished apartment rentals for long term business customers
+
+##### Head of Engineering - May 2015 -
+
+* Led a team of three software engineers of various experience levels
+* Liased with non-technical stakeholders in the company to determine requirements and needs
+* Developed a meteor-based web platform for apartment rentals
+* Designed and maintained the platform's infrastructure and deployment
 
 #### [URGE IO](http://versus.com), Berlin, Germany
 
@@ -29,7 +33,7 @@ URGE IO is a Berlin based startup who are responsible for Versus.com,
 a website for comparing anything, with a particular focus on consumer
 electronics.
 
-##### Head of Engineering - October 2014 -
+##### Head of Engineering - October 2014 - May 2015
 
 * Led a team of six software engineers of varying skill levels and backgrounds,
 * Manged the process of hiring new engineers,
@@ -43,7 +47,7 @@ electronics.
 
 #### [Townsqr](http://townsqr.com.au), Brisbane, Australia
 
-##### Founding Software Developer - February 2012 to July 2012
+##### Founding Software Developer - 2012 - 2013
 
 Townsqr is an Australian startup that, upon launch, will act
 as a crowdfunding tool for non-profit organisations. My role
@@ -56,7 +60,7 @@ application that the main site runs, in particular:
 
 #### [The University of Queensland](http://uq.edu.au), Brisbane, Australia
 
-##### Teaching Assistant - February 2011 to July 2012
+##### Teaching Assistant - 2011 - 2012
 
 I was a teaching assistant at the University of Queensland for
 three semesters and taught a variety of topics including:
@@ -71,52 +75,27 @@ three semesters and taught a variety of topics including:
 
 ##### Summer Research Scholarship - November 2010 to February 2011
 
-I was offered a summer research scholarship at the Center for Education 
-and Innovation in Technology (CEIT) at the University of Queensland. 
 This scholarship was focused on the 'Web of Things' and was highly
 embedded systems focused. I was tasked with:
 
-* Linux system administration (installing and maintaining servers)
+* Linux system administration
 * Development of an XMPP client for the Arduino platform
 * Using the Beagleboard as a packet sniffer
 * Development of an MQTT client and server library for node.js
 * Creation of a node.js based remote lab server
 
-#### Golden Years Seniors' Centre, Brisbane, Australia
+### Education
 
-##### Technical and Administrative Assistant - November 2010 to March 2011
+Bachelor of Engineering (Software Engineering)  
+University of Queensland, St. Lucia  
+Brisbane, Australia  
 
-* General secreterial work - sending mail, answering and making 
-phone calls, liasing with visitors to the centre
-* Procurement of new employee workstations, monitors, mice and keyboards
-* Installation of workstations
-* Deployment of a Windows 2007 Server
-* Assistance with installation of a PA system
+### Proficiencies
 
-### Other Experience
-
-#### Queensland University Exchange Student Society (QUEST)
-
-##### Committee Member - January 2012 to July 2012
-
-QUEST is a society at the University of Queensland dedicated to helping exchange students meet with local students, primarily through hosting field trips. I was nominated to the QUEST executive in 2012 and my duties included:
-
-* Administering several field trips involving up to 150 exchange students
-* Organising and running fundraising events
-* Promoting the society at open days
-
-#### University of Queensland Kung Fu Club
-
-##### Vice President (Social coordinator) - January 2011 to May 2011
-
-* Organising social events such as club lunches
-* Generating and dispensing promotional material for the social events to the club
-* Promoting the club at open days
-
-### Open Source Contributions
-
-* [MQTT.js](http://github.com/adamvr/MQTT.js) - creator and maintainer
-* [Mosquitto - the open source MQTT Broker](http://mosquitto.org) - OSX compatibility (through cmake) and submission to OSX Hombrew
+* Web development: Ruby on Rails, Node.js, CSS/HTML5/Javascript
+* Databases: Oracle SQL, MySQL, Postgres, MongoDB, Redis
+* Languages: C, C++, Java, Ruby, Javascript, PHP
+* Linux server administration (Ubuntu, CentOS)
 
 ### Languages
 
