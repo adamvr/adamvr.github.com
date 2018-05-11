@@ -13,19 +13,38 @@ Germany with, specialising in web development, embedded systems and the internet
 * [MQTT.js](http://github.com/adamvr/MQTT.js) - creator and maintainer
 * [Mosquitto - the open source MQTT Broker](http://mosquitto.org) - OSX compatibility (through cmake) and submission to OSX Hombrew
 * [arduino-base64](http://github.com/adamvr/arduino-base64) - creator and maintainer
+* Several more small projects
 
 ### Professional Experience
 
+#### [Mobilehead Holding GmbH](https://mobilehead.de), Cologne (Remote), Germany
+
+Mobilehead is a holding company managing several sites (including hotelhead.de and legalhead.de) whose purpose is matchmaking between employeers and potential candidates.
+
+#### Senior Software Engineer - January 2018 -
+
+* Implemented internationalization for the Mobilehead application, written in Meteor
+* Managed migration of self hosted MongoDB to MongoDB Atlas
+* Redeveloped the application deployment process
+* Assisted in the hiring of new developers
+
 #### [Homelike Internet GmbH](https://www.thehomelike.com), Cologne, Germany
 
-Homelike is a Cologne based startup who specialise in furnished apartment rentals for long term business customers
+Homelike is a Cologne based startup who specialise in long term, furnished apartment rentals for business travellers.
 
-##### Head of Engineering - May 2015 -
+##### Head of Engineering - May 2015 - January 2018
 
-* Led a team of three software engineers of various experience levels
+* Led a team of 3-6 software engineers of various experience levels
 * Liased with non-technical stakeholders in the company to determine requirements and needs
 * Developed a meteor-based web platform for apartment rentals
 * Designed and maintained the platform's infrastructure and deployment
+* Developed a tool for synchronizing data between a MongoDB database and Salesforce
+* Built API integrations to several housing classifieds boards (including ImmobilienScout24, Tripping.com and Nestpick)
+* Designed and maintained Homelike payment system, built using the Stripe API
+* Developed a general purpose REST API for the Homelike platform in node.js and feathers.js
+* Supervised development of a GraphQL interface to the REST API
+* Assisted in construction of a React / Redux frontend Homelike application
+* Managed the hiring of new developers
 
 #### [URGE IO](http://versus.com), Berlin, Germany
 
@@ -49,7 +68,7 @@ electronics.
 
 ##### Founding Software Developer - 2012 - 2013
 
-Townsqr is an Australian startup that, upon launch, will act
+Townsqr is an Australian startup that will act
 as a crowdfunding tool for non-profit organisations. My role
 at Townsqr was to assist with the development of the ruby on rails
 application that the main site runs, in particular:
@@ -92,9 +111,12 @@ Brisbane, Australia
 
 ### Proficiencies
 
-* Web development: Ruby on Rails, Node.js, CSS/HTML5/Javascript
+* Web development: Ruby on Rails, Node.js, CSS/HTML5/Javascript, Meteor.js, Feathers.js
+* Frontend technologies: Meteor, React, Redux
 * Databases: Oracle SQL, MySQL, Postgres, MongoDB, Redis
 * Languages: C, C++, Java, Ruby, Javascript, PHP
+* API Experience: Stripe, Salesforce, Paypal
+* Container management / orchestration: Docker Swarm, Rancher, Kubernetes 
 * Linux server administration (Ubuntu, CentOS)
 
 ### Languages
